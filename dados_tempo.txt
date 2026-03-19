@@ -1,0 +1,4 @@
+resposta=ok | tempoZona=GMT | dataHora=2026-03-18 21:25:27 | temperaturaDia=23.0 | unidadeTemperaturaDia=°C | vento=9.7 | unidadeVento=km/h
+resposta=ok | tempoZona=GMT | dataHora=2026-03-18 21:27:56 | temperaturaDia=23.0 | unidadeTemperaturaDia=°C | vento=9.7 | unidadeVento=km/h
+resposta=ok | tempoZona=GMT | dataHora=2026-03-18 21:28:19 | temperaturaDia=22.9 | unidadeTemperaturaDia=°C | vento=7.6 | unidadeVento=km/h
+resposta=ok | tempoZona=GMT | dataHora=2026-03-18 21:33:22 | temperaturaDia=22.8 | unidadeTemperaturaDia=°C | vento=7.6 | unidadeVento=km/h
